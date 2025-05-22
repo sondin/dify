@@ -20,6 +20,8 @@ SupportedComparisonOperator = Literal[
     "<",
     "≥",
     "≤",
+    ">=",
+    "<=",
     # for time
     "before",
     "after",

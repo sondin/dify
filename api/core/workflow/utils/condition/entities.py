@@ -23,6 +23,8 @@ SupportedComparisonOperator = Literal[
     "<",
     "≥",
     "≤",
+    ">=",
+    "<=",
     "null",
     "not null",
     # for file
